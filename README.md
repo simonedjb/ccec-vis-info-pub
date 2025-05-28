@@ -1,4 +1,4 @@
-# Disciplina de Visualização de Informação da CCEC PUC-Rio em 2022
+# Arquivos relacionados à disciplina de Visualização de Informação da CCEC PUC-Rio
 
 Na pasta [dados](https://github.com/simonedjb/ccec-vis-info-pub/tree/main/dados) estão alguns arquivos de dados utilizados nos exemplos da disciplina:
 
@@ -8,7 +8,7 @@ Na pasta [dados](https://github.com/simonedjb/ccec-vis-info-pub/tree/main/dados)
 * Dados da população Brasileira, de 2012 a 2021: [pop_brasil_2012-2021.csv](https://raw.githubusercontent.com/simonedjb/ccec-vis-info-pub/main/dados/pop_brasil_2012-2021.csv)
 
 Os seguintes jupyter notebooks com exemplos estão no colab:
-* [gráficos básicos (matplotlib)](https://colab.research.google.com/drive/1H542zOojsdDuelsKDRhbxfJ87A42x0uu?usp=sharing)
+* [gráficos básicos diversos (matplotlib)](https://colab.research.google.com/drive/1H542zOojsdDuelsKDRhbxfJ87A42x0uu?usp=sharing)
 * [gráficos de barras (matplotlib)](https://colab.research.google.com/drive/1DZqxcAok3kguTAUASbjewQjBbrMbxOlP?usp=sharing)
 * [gráficos de linhas (matplotlib)](https://colab.research.google.com/drive/1df4uhMnpsVcFX8jFX5feV6ys_SXWxSxW?usp=sharing)
 * [gráficos de dispersão (matplotlib)](https://colab.research.google.com/drive/1TDVllziUe9MLSivsXtGXwatv1Tzq0Ng8?usp=sharing)
